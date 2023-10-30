@@ -4,8 +4,8 @@
       "name": "Sun-KernelSU-Proton",
       "repo": "https://github.com/alinxis/xiaomi_xaga.git",
       "branch": "stable",
-      "device": "gki",
-      "defconfig": "gki_defconfig"
+      "device": "rubens",
+      "defconfig": "rubens_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
